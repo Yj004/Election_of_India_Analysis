@@ -60,7 +60,6 @@ STEPS OF DATA SCRAPPING FROM THE Indian Lok Sabha Elections.
 
 Overall, this code automates Visiting the given websites and scraping data from Election details across potentially multiple pages.
 
-Here is the code file link:https://github.com/imad-ul-haque/Pixel-Pioneers_008/blob/main/Code_for_Data_Scrapping_.ipynb
 
 ![ER Diagram](https://github.com/user-attachments/assets/c999cfa7-b305-42bb-9bdd-84b62dc84eb0)
 
